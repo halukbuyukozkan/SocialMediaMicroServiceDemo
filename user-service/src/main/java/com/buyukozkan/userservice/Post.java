@@ -1,4 +1,4 @@
-package com.buyukozkan.postservice;
+package com.buyukozkan.userservice;
 
 public class Post {
     

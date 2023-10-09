@@ -1,4 +1,4 @@
-package com.buyukozkan.notificationservice;
+package com.buyukozkan.userservice;
 
 public class Notification {
     private String notificationId;
